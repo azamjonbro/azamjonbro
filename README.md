@@ -19,13 +19,13 @@
  </div>
  
 <div align="center"> 
-  <a href="tohirjonodilov19@gmail.com">
+  <a href="azamjonbro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/tohirjon-odilov-711577259" target="_blank">
+  <a href="https://www.linkedin.com/in/azamjon-bro-33b830253/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="http://exam-month5-redux.vercel.app/" target="_blank">
+  <a href="https://azamjonbro" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -50,12 +50,12 @@
 <!--   <br/><br/><br/> -->
 <!-- </div> -->
 <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FirdavsCoder&theme=2077">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FirdavsCoder&theme=2077">
-        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FirdavsCoder&theme=2077&utcOffset=5"><br><br>
-        <img src="https://leetcode-stats-six.vercel.app/api?username=firdavsyorkulov&theme=dark" alt="Jokes Card" />
-        <img width=390 src="https://streak-stats.demolab.com/?user=FirdavsCoder&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirdavsCoder&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azamjonbro&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azamjonbro&theme=2077">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=azamjonbro&theme=2077&utcOffset=5"><br><br>
+        <img src="https://leetcode-stats-six.vercel.app/api?username=azamjonbro&theme=dark" alt="Jokes Card" />
+        <img width=390 src="https://streak-stats.demolab.com/?user=azamjonbro&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamjonbro&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
       <br><br>
     </p>
 <hr/>
