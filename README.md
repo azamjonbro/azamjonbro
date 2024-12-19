@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Azamjon_Bro.Azamjon_Bro.issue.1" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azamjon_Bro!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azamjonbro!;" />
 </h1>
 
 <h3 align="center">A passionate developer from Uzbekistan. 🇺🇿</h3>
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a chat app**
 
- 💬 Ask me about **React, Firebase, MySQL... or anything [here](https://github.com/azamjonbro/azamjonbro/issues)**
+ 💬 Ask me about **React, Firebase, MongoDB ... or anything [here](https://github.com/azamjonbro/azamjonbro/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
