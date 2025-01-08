@@ -3,6 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Azamjonbro!;" />
 </h1>
+  <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <h3 align="center">A passionate developer from Uzbekistan. 🇺🇿</h3>
 
@@ -42,7 +45,6 @@
 <br/>
 <hr/> 
 <div align="center"> 
-<hr/>
 <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azamjonbro&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azamjonbro&theme=2077">
@@ -68,8 +70,3 @@
 </h3>
 
 <br/>
-
-<a href="https://github.com/FirdavsCoder">
-## 🏆 GitHub Trophies 
-<img href="https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
-</a>
