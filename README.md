@@ -1,7 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Azamjon_Bro.Azamjon_Bro.issue.1" />
-
-
-  <div id="header" align="center">
+<div id="header" align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Azamjon_Bro.Azamjon_Bro.issue.1" />
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
