@@ -49,6 +49,9 @@
 <!--   ![Snake animation](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/main/github-contribution-grid-snake.svg) -->
 <!--   <br/><br/><br/> -->
 <!-- </div> -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=azamjonbr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+</a> 
 <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azamjonbro&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azamjonbro&theme=2077">
