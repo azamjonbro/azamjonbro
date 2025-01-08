@@ -40,17 +40,16 @@
 </div>
 
 <br/>
-<!-- <hr/> -->
-
-<!-- <div align="center"> -->
-<!--   <h2>🐍 My Contributions 🐍</h2> -->
-<!--   <br> -->
-<!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tohirjon-Odilov/Tohirjon-Odilov/output/github-contribution-grid-snake.svg" /> -->
-<!--   ![Snake animation](https://github.com/Tohirjon-Odilov/Tohirjon-Odilov/blob/main/github-contribution-grid-snake.svg) -->
-<!--   <br/><br/><br/> -->
-<!-- </div> -->
+<hr/> 
+<div align="center"> 
+h2>🐍 My Contributions 🐍</h2> 
+<br> 
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/azamjonbro/azamjonbro/output/github-contribution-grid-snake.svg" />
+ ![Snake animation](https://github.com/azamjonbro/azamjonbro/blob/main/github-contribution-grid-snake.svg)
+ <br/><br/><br/> 
+</div> 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azamjonbr&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </a> 
 <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azamjonbro&theme=2077">
