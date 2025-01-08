@@ -43,7 +43,7 @@
 <hr/> 
 <div align="center"> 
     <a href="https://github.com/FirdavsCoder">
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies <hr/>
 ![](https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </a>
 <p align="center">
