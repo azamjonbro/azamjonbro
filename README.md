@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=azamjonbro.azamjonbro.issue.1" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Azamjon_Bro.Azamjon_Bro.issue.1" />
 
 
   <div id="header" align="center">
