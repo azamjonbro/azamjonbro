@@ -42,10 +42,7 @@
 <br/>
 <hr/> 
 <div align="center"> 
-    <a href="https://github.com/FirdavsCoder">
-## 🏆 GitHub Trophies <hr/>
-![](https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-</a>
+<hr/>
 <p align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azamjonbro&theme=2077">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=azamjonbro&theme=2077">
@@ -71,3 +68,8 @@
 </h3>
 
 <br/>
+
+<a href="https://github.com/FirdavsCoder">
+## 🏆 GitHub Trophies 
+<img href="https://github-profile-trophy.vercel.app/?username=FirdavsCoder&theme=radical&no-frame=true&no-bg=true&margin-w=4"/>
+</a>
