@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![vodiylik's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)
+![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=azamjonbro&color=blue&theme=onedark)
 
@@ -12,5 +12,5 @@
 - ⚡ Fun fact: What is sleep?
 
 <a href="https://github.com/azamjonbro">
-  <img src="https://spotify-readme-azamjonbro.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song">
+  <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song">
 </a>
