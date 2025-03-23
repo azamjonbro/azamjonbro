@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning ElectronJS, React-native
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@azamjonbro](https://t.me/Azamjonbro_news) on telegram
-- 😄 Pronouns: Azamjonbro,
+- 😄 Pronouns: Azamjonbro, Softwareaka ,
 - ⚡ Fun fact: What is sleep?
 
 <a href="https://github.com/azamjonbro">
