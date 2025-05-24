@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Codewars Badge](https://www.codewars.com/users/azamjonbro/badges/large)](https://www.codewars.com/users/azamjonbro)
+
 ![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)
 
 ![](https://komarev.com/ghpvc/?username=azamjonbro&color=blue&theme=onedark)
