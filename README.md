@@ -4,7 +4,8 @@
 
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/azamjonbro)
 
-![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)
+<!--![azamjonbro's github stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&show_icons=true&theme=default)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=azamjonbro&count_private=true&show_icons=true&line_height=40&theme=gruvbox)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamjonbro&langs_count=5&hide=html,cmake&theme=gruvbox)
 
 ![](https://komarev.com/ghpvc/?username=azamjonbro&color=blue&theme=onedark)
