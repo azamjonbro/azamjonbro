@@ -20,6 +20,5 @@
 - 😄 Pronouns: Azamjonbro,
 - ⚡ Fun fact: What is sleep?
 
-<a href="https://github.com/azamjonbro">
-<!--   <img src="https://spotify-readme-vodiylik.vercel.app/api?scan=true&theme=light&spin=0" alt="Current Spotify Song"> -->
-</a>
+[![Aslwayn Spotify](https://i.scdn.co/image/ab67616d00001e02d3d3ad2d2b333dfed931e3b1)](https://open.spotify.com/album/366FJThSWiZhOzFNZSnREf)
+
