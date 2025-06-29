@@ -22,5 +22,5 @@
 
 ### 🎧 Hozir tinglayapman:
 
-[![Spotify Logo](https://img.icons8.com/ios-filled/30/1DB954/spotify.png) ![Aslwayn - Spotify](https://i.scdn.co/image/ab67616d00001e02d3d3ad2d2b333dfed931e3b1)](https://open.spotify.com/album/366FJThSWiZhOzFNZSnREf)
+[![Spotify Logo](https://img.icons8.com/ios-filled/30/1DB954/spotify.png) ![Aslwayne - Spotify](https://i.scdn.co/image/ab67616d00001e02d3d3ad2d2b333dfed931e3b1)](https://open.spotify.com/album/366FJThSWiZhOzFNZSnREf)
 
