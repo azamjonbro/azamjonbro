@@ -19,6 +19,5 @@
 - 📫 How to reach me: [@azamjonbro](https://t.me/dasturlash_lampasi) on telegram
 - 😄 Pronouns: Azamjonbro,
 - ⚡ Fun fact: What is sleep?
-- 
 <!-- ### 🎧 Hozir tinglayapman:
 ["Begonamiz endi yor"]["https://www.youtube.com/watch?v=QZfqQYsTDqk&list=RDvw46sEplphg&index=2"] -->
