@@ -10,7 +10,7 @@
 
 <!--![](https://komarev.com/ghpvc/?username=azamjonbro&color=blue&theme=onedark) -->
 
-- 🔭 I’m currently working at Algoritm
+- 🔭 I’m currently working at nothing
 - 🌱 I’m currently learning ElectronJS, React-native
 - 💬 Ask me about nothing :)
 - 📫 How to reach me: [@azamjonbro](https://t.me/leveluptoengineer) on telegram
