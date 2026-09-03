@@ -1,23 +1,3 @@
-# Hi there, I'm Azamjonbro 👋
-
-### Frontend Developer • JavaScript Enthusiast • Builder
-
-I love building web applications, experimenting with new technologies,
-and solving programming challenges.
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently building and experimenting with web projects
-- 🌱 Learning React Native & ElectronJS
-- 💻 Mainly working with JavaScript, Vue.js, React & Node.js
-- 🧩 Solving challenges on Codewars
-- 🎯 Always learning something new
-- ⚡ Fun fact: What is sleep?
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -48,19 +28,13 @@ and solving programming challenges.
 <p align="center">
 
 <a href="https://www.codewars.com/users/azamjonbro">
-  <img
-    src="https://www.codewars.com/users/azamjonbro/badges/large"
-    alt="Codewars"
-  />
+  <img src="https://www.codewars.com/users/azamjonbro/badges/large" />
 </a>
 
 &nbsp;&nbsp;
 
 <a href="https://monkeytype.com/profile/azamjonbro">
-  <img
-    src="https://img.shields.io/badge/Monkeytype-Profile-orange?style=for-the-badge&logo=monkeytype&logoColor=white"
-    alt="Monkeytype"
-  />
+  <img src="https://img.shields.io/badge/Monkeytype-Profile-orange?style=for-the-badge&logo=monkeytype&logoColor=white" />
 </a>
 
 </p>
@@ -102,15 +76,11 @@ and solving programming challenges.
 <p align="center">
 
 <a href="https://t.me/leveluptoengineer">
-  <img
-    src="https://img.shields.io/badge/Telegram-@azamjonbro-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/Telegram-@AZAMJONBRO-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="https://github.com/azamjonbro">
-  <img
-    src="https://img.shields.io/badge/GitHub-azamjonbro-181717?style=for-the-badge&logo=github&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/GitHub-AZAMJONBRO-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </p>
@@ -119,7 +89,7 @@ and solving programming challenges.
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=azamjonbro&label=Profile%20Views&color=blue&style=flat"
+    src="https://komarev.com/ghpvc/?username=azamjonbro&label=Profile%20Views&style=flat"
   />
 </p>
 
