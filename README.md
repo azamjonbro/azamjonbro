@@ -4,7 +4,7 @@
 
 [![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/azamjonbro)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamjonbro&langs_count=5&hide=html,cmake&theme=holi)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azamjonbro&langs_count=5&hide=html,cmake&theme=holi) -->
 
 <!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=azamjonbro)](https://github.com/anuraghazra/github-readme-stats) -->
 
